@@ -13,7 +13,7 @@ footer{
     text-align: center;
 }
 #home{
-    size: 240px;
+    font-size: 240px;
     color: yellow;
     background-color: blue;
 }
