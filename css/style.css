@@ -13,8 +13,8 @@ footer{
     text-align: center;
 }
 #home{
-    size: 40px;
-    color: red;
+    size: 240px;
+    color: yellow;
     background-color: blue;
 }
 
@@ -30,8 +30,4 @@ footer{
 }
 .contact{
     text-align: center;
-}
-
-header{
-    background: red;
 }
