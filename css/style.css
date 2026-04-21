@@ -12,6 +12,9 @@ footer{
     background: red;
     text-align: center;
 }
+#home{
+    size: 40px;
+}
 
 #link{
     text-align: center;
