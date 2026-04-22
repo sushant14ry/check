@@ -13,7 +13,8 @@ footer{
     text-align: center;
 }
 #home{
-    font-size: 80px;
+    font-size: 60px;
+    padding: 12px;
     color: yellow;
     background-color: blue;
 }
